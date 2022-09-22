@@ -1,4 +1,5 @@
-### Hi there 👋
+# 👾 Archibald Carrion
+**Student in computer science, developer, creator, videomaker**
 
 <!--
 **archibald-carrion/archibald-carrion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
