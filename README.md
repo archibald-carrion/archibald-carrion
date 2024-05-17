@@ -14,6 +14,9 @@
 </div>
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=archibald.carrion&theme=soft-green&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+
 <!--
 **archibald-carrion/archibald-carrion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
