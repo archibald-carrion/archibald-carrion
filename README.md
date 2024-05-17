@@ -12,9 +12,15 @@
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C plus plus" alt="C++" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C sharp" alt="C#" width="55" height="55"/>|
 
 </div>
+---
+
+<div>
+    [![GitHub Streak](https://streak-stats.demolab.com?user=archibald.carrion&theme=soft-green&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+</div>
+
+---
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=archibald.carrion&theme=soft-green&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 
 <!--
