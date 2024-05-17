@@ -14,11 +14,10 @@
 </div>
 ---
 
-<div>
-    [![GitHub Streak](https://streak-stats.demolab.com?user=archibald.carrion&theme=soft-green&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-</div>
-
----
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=archibald.carrion&theme=soft-green&date_format=j%2Fn%5B%2FY%5D">
+  <!-- source: https://streak-stats.demolab.com/demo/-->
+</p>
 
 
 
