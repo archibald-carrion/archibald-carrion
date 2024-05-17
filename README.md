@@ -19,7 +19,7 @@
   <!-- source: https://streak-stats.demolab.com/demo/-->
 </p>
 
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=archibald.carrion&theme=soft-green&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
 
 
 <!--
