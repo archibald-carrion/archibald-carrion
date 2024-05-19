@@ -15,7 +15,7 @@
 ### Python GUI Libraries that I use:
 | Tkinter | Pygame | CustomTkinter |
 |----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://user-images.githubusercontent.com/46412508/170405011-222751e9-570b-486b-a5ea-963213709b29.png" title="Pygame"  alt="Pygame" width="55" height="55"/>  |<img src="https://github.com/TomSchimansky/CustomTkinter/blob/master/customtkinter/assets/icons/CustomTkinter_icon_Windows.ico" title="CustomTkinter"  alt="CustomTkinter" width="55" height="55"/> | 
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://user-images.githubusercontent.com/46412508/170405011-222751e9-570b-486b-a5ea-963213709b29.png" title="Pygame"  alt="Pygame" width="55" height="55" align="center"/> | <img src="https://github.com/TomSchimansky/CustomTkinter/blob/master/customtkinter/assets/icons/CustomTkinter_icon_Windows.ico" title="CustomTkinter"  alt="CustomTkinter" width="55" height="55" align="center"/> |
 
 
 
