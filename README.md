@@ -23,7 +23,10 @@
 |----------|----------|----------|
 | <img src="https://godotengine.org/assets/press/logo_vertical_color_dark.png" title="Godot"  alt="Godot" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity"  alt="Unity" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine 4"  alt="Unreal Engine 4" width="55" height="55"/> |
 
-
+### Operating Systems:
+| Windows | Kali | Ubuntu |
+|----------|----------|----------|
+| <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/windows8/windows8-original.svg" title="Windows"  alt="Windows" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali"  alt="Kali" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/ubuntu/ubuntu-original.svg" title="Ubuntu"  alt="Ubuntu" width="55" height="55"/> |
 
 
 </div>
