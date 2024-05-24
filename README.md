@@ -17,6 +17,7 @@
 |----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" title="Pygame"  alt="Pygame" width="55" height="55" align="center"/> | <img src="https://github.com/TomSchimansky/CustomTkinter/blob/master/customtkinter/assets/icons/CustomTkinter_icon_Windows.ico" title="CustomTkinter"  alt="CustomTkinter" width="55" height="55" align="center"/> |
 
+### Assembly Languages:
 
 ### Video game engines that I use:
 | Godot | Unity | Unreal Engine 4 |
