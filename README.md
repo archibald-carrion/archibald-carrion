@@ -11,6 +11,9 @@
 |----------|----------|----------|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C plus plus" alt="C++" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C sharp" alt="C#" width="55" height="55"/>|
 
+### Python Libraries:
+| Numpy | Matplotlib |
+
 
 ### Python GUI Libraries that I use:
 | Tkinter | Pygame | CustomTkinter |
