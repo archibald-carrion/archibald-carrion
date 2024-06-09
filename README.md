@@ -24,7 +24,7 @@
 ### Low level programming and circuit design:
 | x86 |  Logisim | Verilog |
 |----------|----------|----------|
-| <img src="img/assembly_intel_icon_132576.svg" title="x86"  alt="x86" width="55" height="55"/> | <img src="https://es.m.wikipedia.org/wiki/Archivo:Logisim-icon.svg" title="Logisim"  alt="Logisim" width="55" height="55"/> |
+| <img src="img/assembly_intel_icon_132576.svg" title="x86"  alt="x86" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logisim-icon.svg" title="Logisim"  alt="Logisim" width="55" height="55"/> |
 
 ### Video game engines that I use:
 | Godot | Unity | Unreal Engine 4 |
