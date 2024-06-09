@@ -13,7 +13,8 @@
 
 ### Python Libraries:
 | Numpy | Matplotlib |
-
+|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy"  alt="Numpy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib"  alt="Matplotlib" width="55" height="55"/> |
 
 ### Python GUI Libraries that I use:
 | Tkinter | Pygame | CustomTkinter |
