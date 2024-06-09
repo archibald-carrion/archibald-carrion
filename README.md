@@ -23,6 +23,8 @@
 
 ### Low level programming and circuit design:
 | x86 |  Logisim | Verilog |
+|----------|----------|----------|
+| <img src="img/assembly_intel_icon_132576.svg" title="x86"  alt="x86" width="55" height="55"/> |
 
 ### Video game engines that I use:
 | Godot | Unity | Unreal Engine 4 |
