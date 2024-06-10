@@ -21,6 +21,17 @@
 |----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" title="Pygame"  alt="Pygame" width="55" height="55" align="center"/> | <img src="https://github.com/TomSchimansky/CustomTkinter/blob/master/customtkinter/assets/icons/CustomTkinter_icon_Windows.ico" title="CustomTkinter"  alt="CustomTkinter" width="55" height="55" align="center"/> |
 
+## Python Libraries
+
+| Category | Library | Icon |
+|----------|----------|----------|
+| Scientific Libraries | Numpy | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy"  alt="Numpy" width="55" height="55"/> |
+| Scientific Libraries | Matplotlib | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib"  alt="Matplotlib" width="55" height="55"/> |
+| GUI Libraries | Tkinter | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
+| GUI Libraries | Pygame | <img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" title="Pygame"  alt="Pygame" width="55" height="55" align="center"/> |
+| GUI Libraries | CustomTkinter | <img src="https://github.com/TomSchimansky/CustomTkinter/blob/master/customtkinter/assets/icons/CustomTkinter_icon_Windows.ico" title="CustomTkinter"  alt="CustomTkinter" width="55" height="55" align="center"/> |
+
+
 ### Low level programming and circuit design:
 | x86 |  Logisim | Verilog |
 |----------|----------|----------|
