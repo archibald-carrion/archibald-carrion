@@ -18,7 +18,7 @@
 <table border="0" style="border-color: transparent; background-color: transparent;">
 <tr>
 <td>
-    <table border="0px" bordercolor="#F">
+    <table border="0px" bordercolor="#F" background-color="transparent">
     <h4 align="center">GUI Libraries</h4>
     <tr>
         <td>Tkinter</td>
