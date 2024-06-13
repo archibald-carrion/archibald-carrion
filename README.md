@@ -22,14 +22,40 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" title="Pygame"  alt="Pygame" width="55" height="55" align="center"/> | <img src="https://github.com/TomSchimansky/CustomTkinter/blob/master/customtkinter/assets/icons/CustomTkinter_icon_Windows.ico" title="CustomTkinter"  alt="CustomTkinter" width="55" height="55" align="center"/> |
 
 ## Python Libraries
+<body>
+<table border="0px" bordercolor="#F">
+<tr>
+<td>
+    <table border="0px" bordercolor="#F">
+    <h4 align="center">GUI Libraries</h4>
+    <tr>
+        <td>Tkinter</td>
+        <td>Pygame</td>
+        <td>CustomTkinter</td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> </td>
+        <td> <img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" title="Pygame"  alt="Pygame" width="55" height="55" align="center"/> </td>
+        <td>  <img src="https://github.com/TomSchimansky/CustomTkinter/blob/master/customtkinter/assets/icons/CustomTkinter_icon_Windows.ico" title="CustomTkinter"  alt="CustomTkinter" width="55" height="55" align="center"/> </td>
+    </tr> 
+    </table>
+</td>
+<td>
+    <table border="0px" bordercolor="#F">
+    <h4 align="center">Scientific Libraries</h4>
+    <tr>
+        <td>nested table C1</td>
+        <td>nested table C2</td>
+    </tr>
+    <tr>
+        <td>nested table</td>
+        <td>nested table</td>
+    </tr>
+    </table>
+</td>
+</tr>
+</table>
 
-| Category | Library | Icon |
-|----------|----------|----------|
-| Scientific Libraries | Numpy | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy"  alt="Numpy" width="55" height="55"/> |
-| Scientific Libraries | Matplotlib | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib"  alt="Matplotlib" width="55" height="55"/> |
-| GUI Libraries | Tkinter | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
-| GUI Libraries | Pygame | <img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" title="Pygame"  alt="Pygame" width="55" height="55" align="center"/> |
-| GUI Libraries | CustomTkinter | <img src="https://github.com/TomSchimansky/CustomTkinter/blob/master/customtkinter/assets/icons/CustomTkinter_icon_Windows.ico" title="CustomTkinter"  alt="CustomTkinter" width="55" height="55" align="center"/> |
 
 
 
