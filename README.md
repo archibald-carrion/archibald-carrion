@@ -24,14 +24,9 @@
 ## Python Libraries
 
 
-<style> 
-table { 
-  border: none; 
-} 
-</style>
 
 <body>
-<table>
+<table border="0" style="border-color: transparent; background-color: transparent;">
 <tr>
 <td>
     <table border="0px" bordercolor="#F">
