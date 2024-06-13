@@ -23,7 +23,7 @@
 
 ## Python Libraries
 <body>
-<table border="0px" transparent>
+<table border="0" style="background-color: transparent;">
 <tr>
 <td>
     <table border="0px" bordercolor="#F">
