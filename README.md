@@ -23,7 +23,7 @@
 
 ## Python Libraries
 <body>
-<table border="0px" bordercolor="#F">
+<table border="0px" bordercolor=transparent>
 <tr>
 <td>
     <table border="0px" bordercolor="#F">
@@ -44,12 +44,12 @@
     <table border="0px" bordercolor="#F">
     <h4 align="center">Scientific Libraries</h4>
     <tr>
-        <td>nested table C1</td>
-        <td>nested table C2</td>
+        <td>Numpy</td>
+        <td>Matplotlib</td>
     </tr>
     <tr>
-        <td>nested table</td>
-        <td>nested table</td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy"  alt="Numpy" width="55" height="55"/> </td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib"  alt="Matplotlib" width="55" height="55"/> </td>
     </tr>
     </table>
 </td>
