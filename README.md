@@ -11,6 +11,7 @@
 |----------|----------|----------|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C plus plus" alt="C++" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C sharp" alt="C#" width="55" height="55"/>|
 
+<!-- 
 ### Python Libraries:
 | Numpy | Matplotlib |
 |----------|----------|
@@ -19,20 +20,15 @@
 ### Python GUI Libraries that I use:
 | Tkinter | Pygame | CustomTkinter |
 |----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" title="Pygame"  alt="Pygame" width="55" height="55" align="center"/> | <img src="https://github.com/TomSchimansky/CustomTkinter/blob/master/customtkinter/assets/icons/CustomTkinter_icon_Windows.ico" title="CustomTkinter"  alt="CustomTkinter" width="55" height="55" align="center"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" title="Pygame"  alt="Pygame" width="55" height="55" align="center"/> | <img src="https://github.com/TomSchimansky/CustomTkinter/blob/master/customtkinter/assets/icons/CustomTkinter_icon_Windows.ico" title="CustomTkinter"  alt="CustomTkinter" width="55" height="55" align="center"/> | -->
 
-## Python Libraries
-
-
+### Python Libraries
 
 <body>
 <table border="0" style="border-color: transparent; background-color: transparent;">
 <tr>
 <td>
-| Numpy | Matplotlib |
-|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy"  alt="Numpy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib"  alt="Matplotlib" width="55" height="55"/> |
-    <!-- <table border="0px" bordercolor="#F">
+    <table border="0px" bordercolor="#F">
     <h4 align="center">GUI Libraries</h4>
     <tr>
         <td>Tkinter</td>
@@ -44,7 +40,7 @@
         <td> <img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" title="Pygame"  alt="Pygame" width="55" height="55" align="center"/> </td>
         <td>  <img src="https://github.com/TomSchimansky/CustomTkinter/blob/master/customtkinter/assets/icons/CustomTkinter_icon_Windows.ico" title="CustomTkinter"  alt="CustomTkinter" width="55" height="55" align="center"/> </td>
     </tr> 
-    </table> -->
+    </table>
 </td>
 <td>
     <table border="0px" bordercolor="#F">
@@ -52,10 +48,12 @@
     <tr>
         <td>Numpy</td>
         <td>Matplotlib</td>
+        <td>PLY</td>
     </tr>
     <tr>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy"  alt="Numpy" width="55" height="55"/> </td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib"  alt="Matplotlib" width="55" height="55"/> </td>
+        <td><img src="img\PLY_python_lex_yacc.PNG" title="PLY"  alt="PLY" width="55" height="55"/> </td>
     </tr>
     </table>
 </td>
