@@ -1,15 +1,15 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=archibald-carrion&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 👾 Archibald Carrion
-**Student in computer science, developer, creator, videomaker**
+Student in computer science, developer, game developer, ai enthusiast, videomaker
 
 ## Languages and Tools 
 <div>
 
 ### Languages:
-| Python3 | C | C++ | C# |
-|----------|----------|----------|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C plus plus" alt="C++" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C sharp" alt="C#" width="55" height="55"/>|
+| Python3 | C | C++ | C# | Prolog | Haskell |
+|----------|----------|----------|-----|------|-------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C plus plus" alt="C++" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C sharp" alt="C#" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg" title="Prolog" alt="Prolog" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="55" height="55"/> |
 
 <!-- 
 ### Python Libraries:
