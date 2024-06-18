@@ -49,7 +49,7 @@ Student in computer science, developer, game developer, ai enthusiast, videomake
         <td>Numpy</td>
         <td>Matplotlib</td>
         <td>PLY</td>
-        <td>Tensorflow</td>
+        <td>TensorFlow</td>
     </tr>
     <tr>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy"  alt="Numpy" width="55" height="55"/> </td>
