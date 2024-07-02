@@ -50,12 +50,14 @@ Student in computer science, developer, game developer, ai enthusiast, videomake
         <td>Matplotlib</td>
         <td>PLY</td>
         <td>TensorFlow</td>
+        <td>Scipy</td>
     </tr>
     <tr>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy"  alt="Numpy" width="55" height="55"/> </td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib"  alt="Matplotlib" width="55" height="55"/> </td>
         <td><img src="img\PLY_python_lex_yacc.PNG" title="PLY"  alt="PLY" width="55" height="55"/> </td>
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow"  alt="Tensorflow" width="55" height="55"/> </td> 
+        <td><img src="https://scipy.org/images/logo.svg" title="Scipy"  alt="Scipy" width="55" height="55"/> </td>
     </tr>
     </table>
 </td>
