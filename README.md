@@ -25,7 +25,7 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="55" height="55"/> | <img src="https://scipy.org/images/logo.svg" width="55" height="55"/> | 📜 |
 
 #### Notable Projects
-- [Convolutional neural networks](https://github.com/archibald-carrion/fake-assembly-project) used to classify audio of an ambulance siren.
+- [Convolutional neural networks](https://github.com/archibald-carrion/Convolutional-neural-networks-sound-classification) used to classify audio of an ambulance siren.
 
 ---
 
