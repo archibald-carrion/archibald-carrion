@@ -1,89 +1,51 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=archibald-carrion&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
-
 # 👾 Archibald Carrion
-Software Engineer, Computer scientist, amateur game developer.
+**Software Engineer | Computer Scientist | Amateur Game Developer**
 
-## Languages and Tools 
-<div>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=archibald-carrion&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Languages:
-| Python3 | C | C++ | C# | Prolog | Haskell |
-|----------|----------|----------|-----|------|-------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C plus plus" alt="C++" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C sharp" alt="C#" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg" title="Prolog" alt="Prolog" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" title="Haskell" alt="Haskell" width="55" height="55"/> |
+---
 
-<!-- 
-### Python Libraries:
-| Numpy | Matplotlib |
-|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy"  alt="Numpy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib"  alt="Matplotlib" width="55" height="55"/> |
+## 🚀 Languages & Tools
 
-### Python GUI Libraries that I use:
+### 🖥️ Programming Languages
+| Python | C | C++ | C# | Prolog | Haskell |
+|--------|---|----|----|--------|--------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" width="55" height="55"/> |
+
+### 📚 Python Libraries
+#### GUI Libraries
 | Tkinter | Pygame | CustomTkinter |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" title="Pygame"  alt="Pygame" width="55" height="55" align="center"/> | <img src="https://github.com/TomSchimansky/CustomTkinter/blob/master/customtkinter/assets/icons/CustomTkinter_icon_Windows.ico" title="CustomTkinter"  alt="CustomTkinter" width="55" height="55" align="center"/> | -->
+|---------|--------|--------------|
+| 🐍 | 🎮 | 🎨 |
 
-### Python Libraries
+#### Scientific Libraries
+| NumPy | Matplotlib | TensorFlow | SciPy | PLY |
+|-------|-----------|------------|-------|-----|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="55" height="55"/> | <img src="https://scipy.org/images/logo.svg" width="55" height="55"/> | 📜 |
 
-<body>
-<table border="0" style="border-color: transparent; background-color: transparent;">
-<tr>
-<td>
-    <table border="0px" bordercolor="#F">
-    <h4 align="center">GUI Libraries</h4>
-    <tr>
-        <td>Tkinter</td>
-        <td>Pygame</td>
-        <td>CustomTkinter</td>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> </td>
-        <td> <img src="https://user-images.githubusercontent.com/46412508/170405943-e75458ec-6cb4-462e-91ba-43c861a3d6cf.png" title="Pygame"  alt="Pygame" width="55" height="55" align="center"/> </td>
-        <td>  <img src="https://github.com/TomSchimansky/CustomTkinter/blob/master/customtkinter/assets/icons/CustomTkinter_icon_Windows.ico" title="CustomTkinter"  alt="CustomTkinter" width="55" height="55" align="center"/> </td>
-    </tr> 
-    </table>
-</td>
-<td>
-    <table border="0px" bordercolor="#F">
-    <h4 align="center">Scientific Libraries</h4>
-    <tr>
-        <td>Numpy</td>
-        <td>Matplotlib</td>
-        <td>PLY</td>
-        <td>TensorFlow</td>
-        <td>Scipy</td>
-    </tr>
-    <tr>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy"  alt="Numpy" width="55" height="55"/> </td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib"  alt="Matplotlib" width="55" height="55"/> </td>
-        <td><img src="img\PLY_python_lex_yacc.PNG" title="PLY"  alt="PLY" width="55" height="55"/> </td>
-        <td><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow"  alt="Tensorflow" width="55" height="55"/> </td> 
-        <td><img src="https://scipy.org/images/logo.svg" title="Scipy"  alt="Scipy" width="55" height="55"/> </td>
-    </tr>
-    </table>
-</td>
-</tr>
-</table>
+---
 
+### 🔬 Low-Level Programming & Circuit Design
+| x86 Assembly | Logisim | Verilog | Arduino | ESP32 |
+|-------------|--------|---------|--------|-------|
+| 🏗️ | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logisim-icon.svg" width="55" height="55"/> | 💡 | <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg " width="55" height="55"/> | ⚙️ |
 
+---
 
-
-### Low level programming and circuit design:
-| x86 |  Logisim | Verilog |
-|----------|----------|----------|
-| <img src="img/assembly_intel_icon_132576.svg" title="x86"  alt="x86" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Logisim-icon.svg" title="Logisim"  alt="Logisim" width="55" height="55"/> |
-
-### Video game engines that I use:
+### 🎮 Game Development
 | Godot | Unity | Unreal Engine 4 |
-|----------|----------|----------|
-| <img src="https://godotengine.org/assets/press/logo_vertical_color_dark.png" title="Godot"  alt="Godot" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity"  alt="Unity" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal Engine 4"  alt="Unreal Engine 4" width="55" height="55"/> |
+|-------|------|----------------|
+| <img src="https://godotengine.org/assets/press/logo_vertical_color_dark.png" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" width="55" height="55"/> |
 
-### Operating Systems:
-| Windows | Kali | Ubuntu |
-|----------|----------|----------|
-| <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/windows8/windows8-original.svg" title="Windows"  alt="Windows" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali"  alt="Kali" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/ubuntu/ubuntu-original.svg" title="Ubuntu"  alt="Ubuntu" width="55" height="55"/> |
+---
 
+### 💻 Operating Systems
+| Windows | Kali Linux | Ubuntu |
+|---------|-----------|--------|
+| <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/windows8/windows8-original.svg" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/ubuntu/ubuntu-original.svg" width="55" height="55"/> |
 
-</div>
+---
 
-## ![Stats-SVG](https://github.com/gh0stintheshe11/Stats-SVG/tree/main)
+## 📊 GitHub Stats
 ![GitHub Stats SVG](https://stats-svg.vercel.app/api/github-status?username=archibald-carrion)
+
