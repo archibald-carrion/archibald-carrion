@@ -12,16 +12,20 @@
 |--------|---|----|----|--------|--------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/haskell/haskell-original.svg" width="55" height="55"/> |
 
+
 ### 📚 Python Libraries
-#### GUI Libraries
-| Tkinter | Pygame | CustomTkinter |
-|---------|--------|--------------|
-| 🐍 | 🎮 | 🎨 |
+#### Software development
+| Tkinter | Pygame | CustomTkinter | Flask |
+|---------|--------|--------------| ------|
+| 🐍 | 🎮 | 🎨 | <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="55" height="55"/>
 
 #### Scientific Libraries
 | NumPy | Matplotlib | TensorFlow | SciPy | PLY |
 |-------|-----------|------------|-------|-----|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="55" height="55"/> | <img src="https://scipy.org/images/logo.svg" width="55" height="55"/> | 📜 |
+
+#### Notable Projects
+- [Convolutional neural networks](https://github.com/archibald-carrion/fake-assembly-project) used to classify audio of an ambulance siren.
 
 ---
 
@@ -37,6 +41,12 @@
 |-------|------|----------------|
 | <img src="https://godotengine.org/assets/press/logo_vertical_color_dark.png" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" width="55" height="55"/> |
 
+#### Notable Projects
+- [My own game engine](https://github.com/archibald-carrion/game-engine) written in C/C++ using SDL2 for rendering and input handling, and Lua for scripting.
+- [Retro space shooter](https://github.com/archibald-carrion/Video-game-De-Astra-Ad-Terra) made using my [own game engine](https://github.com/archibald-carrion/game-engine).
+- [Doom clone](https://github.com/archibald-carrion/Doom-game-engine) made using Python and Pygame.
+- [Metroidvania medieval game](https://github.com/archibald-carrion/Video-game-The-Templar) made using my [own game engine](https://github.com/archibald-carrion/game-engine)
+- [Battleship game](https://github.com/archibald-carrion/Battleship) made in C/C++ with SFML for rendering and input handling, and x86 Assembly for the backend.
 ---
 
 ### 💻 Operating Systems
