@@ -1,8 +1,6 @@
 # 👾 Archibald Carrion
 **Software Engineer | Computer Scientist | Amateur Game Developer**
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=archibald-carrion&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ## 🚀 Languages & Tools
@@ -47,6 +45,8 @@
 - [Doom clone](https://github.com/archibald-carrion/Doom-game-engine) made using Python and Pygame.
 - [Metroidvania medieval game](https://github.com/archibald-carrion/Video-game-The-Templar) made using my [own game engine](https://github.com/archibald-carrion/game-engine)
 - [Battleship game](https://github.com/archibald-carrion/Battleship) made in C/C++ with SFML for rendering and input handling, and x86 Assembly for the backend.
+- [OpenBox](https://github.com/archibald-carrion/OpenBox): A fully local, self-hosted party game server. Plug your PC into a TV via HDMI, run the server, and players join from their phones on the same WiFi.
+- [LOVR game design](https://github.com/archibald-carrion/LOVR-VR-game-design): PC VR development with Meta Quest 3S (SteamVR / OpenXR)
 ---
 
 ### 💻 Operating Systems
